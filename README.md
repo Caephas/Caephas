@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hello there 👋
 
 
-<!-- *Phavyolo/Phavyolo* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- *Caephas* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on flutter applications
 - 🌱 I’m currently learning some advanced java stuffs
 - 👯 I’m looking to collaborate on java projects
-- 📫 How to reach me: phavyolo@gmail.com
-- ⚡ Fun fact: Yolo Only Live Once /**\*\**recursive 😅***\*\*/
+- 📫 How to reach me: arinzeobidiegwu@gmail.com
+- ⚡ Fun fact: You Only Live Once /**\*\**recursive 😅***\*\*/
 
 ![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true)
 
@@ -26,12 +26,12 @@
 
 ### 📌 Pinned 
 
-<a href="https://github.com/Phavyolo/functional-programming-with-java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko" />
+<a href="https://github.com/Caephas/QuotesApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Caephas&repo=https://github.com/Caephas/QuotesApp" />
 </a>
 
-<a href="https://github.com/Phavyolo/simple_calculator_with_getx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=simple_calculator_with_getx&theme=merko" />
+<a href="https://github.com/Caephas/Personal-Assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Caephas&repo=https://github.com/Caephas/Personal-Assistant" />
 </a>
 
 <br>
