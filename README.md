@@ -11,7 +11,7 @@
 - 📫 How to reach me: arinzeobidiegwu@gmail.com
 - ⚡ Fun fact: You Only Live Once /**\*\**recursive 😅***\*\*/
 
-![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caephas&show_icons=true&theme=merko&count_private=true)
+![Caephas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caephas&show_icons=true&theme=merko&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caephas&layout=compact&theme=merko)](https://github.com/Caephas/github-readme-stats)
 
@@ -27,18 +27,18 @@
 ### 📌 Pinned 
 
 <a href="https://github.com/Caephas/QuotesApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Caephas&repo=https://github.com/Caephas/QuotesApp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Caephas&repo=https://github.com/Caephas/QuotesApp&theme=merko" />
 </a>
 
 <a href="https://github.com/Caephas/Personal-Assistant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Caephas&repo=https://github.com/Caephas/Personal-Assistant" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Caephas&repo=https://github.com/Caephas/Personal-Assistant&theme=merko" />
 </a>
 
 <br>
 <br>
 
-<a href="https://github.com/Phavyolo/mockito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=mockito&theme=merko" />
+<a href="https://github.com/Caephas/personal-portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Caephas&repo=mockito&theme=merko" />
 </a>
 
 <a href="https://github.com/Phavyolo/junit">
