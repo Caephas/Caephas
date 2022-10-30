@@ -11,9 +11,9 @@
 - 📫 How to reach me: arinzeobidiegwu@gmail.com
 - ⚡ Fun fact: You Only Live Once /**\*\**recursive 😅***\*\*/
 
-![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phavyolo&show_icons=true&theme=merko&count_private=true)
+![Phavyolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caephas&show_icons=true&theme=merko&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phavyolo&layout=compact&theme=merko)](https://github.com/Phavylolo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caephas&layout=compact&theme=merko)](https://github.com/Caephas/github-readme-stats)
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Phavyolo&repo=functional-programming-with-java&theme=merko)](https://github.com/Phavyolo/functional-programming-with-java)
